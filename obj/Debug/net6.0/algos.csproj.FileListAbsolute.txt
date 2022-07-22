@@ -1,0 +1,15 @@
+C:\Users\sanoya\source\repos\algos\bin\Debug\net6.0\algos.exe
+C:\Users\sanoya\source\repos\algos\bin\Debug\net6.0\algos.deps.json
+C:\Users\sanoya\source\repos\algos\bin\Debug\net6.0\algos.runtimeconfig.json
+C:\Users\sanoya\source\repos\algos\bin\Debug\net6.0\algos.dll
+C:\Users\sanoya\source\repos\algos\bin\Debug\net6.0\algos.pdb
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.csproj.AssemblyReference.cache
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.AssemblyInfoInputs.cache
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.AssemblyInfo.cs
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.csproj.CoreCompileInputs.cache
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.dll
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\refint\algos.dll
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.pdb
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\algos.genruntimeconfig.cache
+C:\Users\sanoya\source\repos\algos\obj\Debug\net6.0\ref\algos.dll

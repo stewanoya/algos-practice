@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algos", "algos.csproj", "{19DAD312-1143-4CC6-918C-3CE56F3AE889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DAD312-1143-4CC6-918C-3CE56F3AE889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DAD312-1143-4CC6-918C-3CE56F3AE889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DAD312-1143-4CC6-918C-3CE56F3AE889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DAD312-1143-4CC6-918C-3CE56F3AE889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89BB0C2C-AB20-43C3-AB5F-1C5DD0FE0B56}
+	EndGlobalSection
+EndGlobal

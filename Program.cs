@@ -42,5 +42,57 @@
 //        data[j + 1] = nextElement;
 //    }
 //}
+/// <summary> MERGE SORT </summary>
+/// <summary>Based on divide and conquer strategy, splits the array and then merges and sorts in place</summary>
+/// 
+    List<int> MergeSort(List<int> data)
+{
 
-Console.WriteLine("[{0}]", string.Join(", ", data));
+    if (data.Count > 1)
+    {
+        var mid = data.Count / 2;
+        var left = data.GetRange(0, mid);
+        var right = data.GetRange(mid, data.Count - mid);
+
+        MergeSort(left);
+        MergeSort(right);
+
+        int a = 0;
+        int b = 0;
+        int c = 0;
+
+        while (a < left.Count && b < right.Count)
+        {
+            if (left[a] < right[b])
+            {
+                data[c] = left[a];
+                a++;
+            } else
+            {
+                data[c] = right[b];
+                b++;
+            }
+            c++;
+        }
+
+        while (a < left.Count)
+        {
+            data[c] = left[a];
+            a++;
+            c++;
+        }
+
+        while (b < right.Count)
+        {
+            data[c] = right[b];
+            b++;
+            c++;
+        }        
+    }
+    Console.WriteLine("[{0}]", string.Join(", ", data));
+    return data;
+}
+
+
+
+MergeSort(data.ToList());
